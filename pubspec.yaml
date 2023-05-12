@@ -1,5 +1,5 @@
-name: dart_decorator_pattern
-description: A sample project to demonstrate the iterator pattern in Dart.
+name: dart_factory_pattern
+description: A sample project to demonstrate the factory pattern in Dart.
 
 version: 1.0.0
 
